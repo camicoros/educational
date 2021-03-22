@@ -1,0 +1,2 @@
+# educational
+Small educational projects
